@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+    flex-direction: row ;
+    background-color: DodgerBlue;
+    height: 100px;
+    width: 500px;
+}
+
+.container div {
+  background-color: #b4db1a;
+  width: 100px;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;  
+  font-size: 30px;
+}

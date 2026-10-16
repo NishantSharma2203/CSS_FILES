@@ -1,9 +1,10 @@
 .container{
     display: flex;
-    flex-direction: row ;
+    flex-direction: column ;
+    flex-wrap: wrap;
     background-color: DodgerBlue;
-    height: 100px;
-    width: 500px;
+    height: 800px;
+    width: 300px;
 }
 
 .container div {
